@@ -2,6 +2,8 @@
 
 # 网易云信 Flutter插件
 
+[![pub package](https://img.shields.io/pub/v/nim_fluttify.svg)](https://pub.Flutter-io.cn/packages/nim_fluttify)
+
 **专业版为付费插件, 如有需要请联系qq 382146139**
 
 **专业版为付费插件, 如有需要请联系qq 382146139**
@@ -84,6 +86,11 @@ import 'package:nim_fluttify/nim_fluttify.dart';
 
 ## 使用
 插件的主要类为Nim类, Nim类为单例, 调用时使用`Nim.instance.xxx`来使用. 具体请参考[wiki](https://github.com/fluttify-project/netease_im_fluttify/wiki).
+
+## 社区
+| QQ2群 | QQ1群(已满) |
+| :----------: | :----------: |
+| 加入QQ群讨论 <br/> <img src="https://github.com/fluttify-project/fluttify-project/blob/master/resources/qrcode_1593774649831.jpg?raw=true" height="300"> |加入QQ群讨论 <br/> <img src="https://github.com/fluttify-project/fluttify-project/blob/master/resources/1593774713224_temp_qrcode_share_9993.png?raw=true" height="300"> | 
 
 ## 社区版与专业版
 |       | 社区版 | 专业版 |
