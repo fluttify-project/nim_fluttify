@@ -145,6 +145,10 @@ import 'package:nim_fluttify/nim_fluttify.dart';
 |:-----:|:-----:|:-----:|
 |  获取用户资料  |  ☑️ |  ✅   |
 
+| 系统消息 | 社区版 | 专业版 |
+|:-----:|:-----:|:-----:|
+|  系统消息监听  |  ☑️ |  ✅   |
+
 ## LICENSE
 > Copyright (C) 2020 yohom
 > 
